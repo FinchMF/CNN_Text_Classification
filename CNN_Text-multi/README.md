@@ -5,7 +5,7 @@
 ## Additional Requirements:
 In order to run this program seamlessly, you will need Twitter API keys. If you are unfamiliar with Twitter's API, please refer to my Twitter Pipeline repo to learn more: [link to repo](https://github.com/FinchMF/Twitter_Data_Pipeline)
 
-Once you have aquired the necessary keys, add the following file in the main directory:
+Once you have aquired the necessary keys, add the following file in the **classifier** directory:
 * config.py 
 
 Contents of config.py:
