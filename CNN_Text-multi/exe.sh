@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd classifier
+
 if [ -d 'crawler_tweets' ];
 
 then
@@ -11,7 +13,7 @@ else
     python fetch_data.py
     # incase some csv-files do not properly save in 'crawler_tweets'  
     mv *.csv crawler_tweets
-    
+
     python train_CNN.py
 
 fi

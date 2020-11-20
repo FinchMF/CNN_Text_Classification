@@ -1,4 +1,5 @@
 #!/bin/bash
 
+cd classifier
 # set directory componets
-mkdir model && mkdir data && mkdir crawler_tweets
+mkdir classifier/model && mkdir classifier/data && mkdir classifier/crawler_tweets
