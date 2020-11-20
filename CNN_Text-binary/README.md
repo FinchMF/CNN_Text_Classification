@@ -1,3 +1,6 @@
-# CNN_Text
+# Binary Sentiment Classification
 
-Implementation of Convolutional Neural Network using Pytorch for text classification
+## How to Train:
+        pip install -r requirements.txt
+        bash exe.sh
+
