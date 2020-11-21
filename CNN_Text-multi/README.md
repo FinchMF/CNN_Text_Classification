@@ -21,6 +21,12 @@ In build.py you find the function **predict_sentiment** - this function passes:
 * text_vocab_data = file: TEXT.Field (found in model directory)
 * text to be classified
 
-Load to the two files:
+Load to the two variables:
+
+ FILES:
 * trained model via torch.load()
 * text_vocab_data via dill.load()
+
+THEN implement **gen_test** function.
+
+Examples impemented beneath - **name** - function at EOF'
