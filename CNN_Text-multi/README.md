@@ -29,4 +29,4 @@ Load to the two variables:
 
 THEN implement **gen_test** function.
 
-Examples impemented beneath - **name** - function at EOF'
+Examples impemented beneath - **name** - function at **train_CNN.py** EOF'
